@@ -28,3 +28,8 @@ Gotchas
 
 * Supports jpg, png and gif files
   - The script can be trivially modified to support even more file types.
+
+Tags
+----
+
+duplicate; image; remove; detect; find;
