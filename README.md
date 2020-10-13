@@ -1,7 +1,7 @@
 Delete Visually Redundant
 =========================
 
-A Python script that deletes redundent visually-similar images.
+A Python script that deletes redundant visually-similar images.
 
 For a list of visually similar images it finds, it first deletes all but the largest by file-size.
 If still multile files remain, it deletes all but the oldest by modified-on.
